@@ -1,0 +1,54 @@
+{
+  "destinasi": [
+    {
+      "id": 1,
+      "kode": "D-001",
+      "nama": "Borobudur",
+      "biaya": 3000000,
+      "is_ready": true,
+      "banner": "borobudur.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "D-002",
+      "nama": "Jakarta",
+      "biaya": 3300000,
+      "is_ready": true,
+      "banner": "Jakarta.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "D-003",
+      "nama": "Bali",
+      "biaya": 3450000,
+      "is_ready": true,
+      "banner": "Bali.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "D-004",
+      "nama": "Danau Toba",
+      "biaya": 3100000,
+      "is_ready": true,
+      "banner": "toba.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "D-005",
+      "nama": "Mandalika",
+      "biaya": 2900000,
+      "is_ready": true,
+      "banner": "mandalika.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "D-006",
+      "nama": "Labuan Bajo",
+      "biaya": 2950000,
+      "is_ready": true,
+      "banner": "Labuan-Bajo.jpg"
+    }
+  ],
+  "pesanans": [],
+  "favorits": []
+}

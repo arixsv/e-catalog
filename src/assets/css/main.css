@@ -1,0 +1,22 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+    font-weight: bold;
+}
+
+.card-destinasi{
+    border-radius: 10px;
+}
+
+.card-img-top{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.breadcrumb-item.active{
+    font-weight: bold;
+}
+.img-fluid{
+    border-radius: 10px;
+}

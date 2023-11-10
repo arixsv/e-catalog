@@ -48,7 +48,7 @@
                   <th>{{ index + 1 }}</th>
                   <td>
                     <img
-                      :src="'..//assets/img/' + pesanan.destinasis.banner"
+                    :src="require(`../assets/img/${pesanan.destinasis.banner}`)"
                       class="img-fluid shadow"
                       width="250"
                     />

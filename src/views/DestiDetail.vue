@@ -30,7 +30,7 @@
       <div class="row mt-3">
         <div class="col-md-6">
           <img
-            :src="'..//assets/img/' + destinasi.banner"
+            :src="'../assets/img/' + destinasi.banner"
             class="img-fluid shadow"
           />
         </div>

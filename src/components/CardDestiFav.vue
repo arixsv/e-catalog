@@ -1,6 +1,6 @@
 <template>
   <div class="card card-destinasi shadow mb-4">
-    <img :src=" '..//assets/img/' + favorit.banner" class="card-img-top" alt="..." />
+    <img :src="require(`../assets/img/${favorit.banner}`)" class="card-img-top" alt="..." />
     <div class="card-body">
       <h5 class="card-title fw-bold">{{ favorit.nama }}</h5>
       <p class="card-text">

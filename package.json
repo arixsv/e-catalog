@@ -18,7 +18,8 @@
     "vue": "^3.2.13",
     "vue-axios": "^3.5.2",
     "vue-router": "^4.0.3",
-    "vue-scrollto": "^2.20.0"
+    "vue-scrollto": "^2.20.0",
+    "vue-toast-notification": "^3.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

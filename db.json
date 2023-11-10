@@ -127,7 +127,70 @@
         }
       ],
       "id": 2
+    },
+    {
+      "nama_lengkap": "Aullya Ayu",
+      "email": "llya@gmail.com",
+      "telepon": "089725167162",
+      "pesanans": [
+        {
+          "tanggal_berangkat": "2023-11-17",
+          "destinasis": {
+            "id": 4,
+            "kode": "D-004",
+            "nama": "Danau Toba",
+            "deskripsi": "Dengan tujuan objek wisata Danau Toba",
+            "biaya": 3100000,
+            "is_ready": true,
+            "banner": "toba.jpg"
+          },
+          "id": 2
+        },
+        {
+          "tanggal_berangkat": "2023-11-18",
+          "destinasis": {
+            "id": 3,
+            "kode": "D-003",
+            "nama": "Bali",
+            "deskripsi": "Dengan tujuan objek wisata Pantai, dan Tempat Perbelanjaan",
+            "biaya": 3450000,
+            "is_ready": true,
+            "banner": "Bali.jpg"
+          },
+          "id": 3
+        }
+      ],
+      "id": 3
     }
   ],
-  "pesanan": []
+  "pesanan": [
+    {
+      "tanggal_berangkat": "2023-11-13",
+      "keterangan": "Monjali",
+      "destinasis": {
+        "id": 1,
+        "kode": "D-001",
+        "nama": "Yogyakarta",
+        "deskripsi": "Dengan tujuan objek wisata Candi, Pantai, Tempat Perbelanjaan Malioboro",
+        "biaya": 3000000,
+        "is_ready": true,
+        "banner": "borobudur.jpg"
+      },
+      "id": 2
+    },
+    {
+      "tanggal_berangkat": "2023-11-11",
+      "keterangan": "Monas",
+      "destinasis": {
+        "id": 2,
+        "kode": "D-002",
+        "nama": "Jakarta",
+        "deskripsi": "Dengan tujuan objek wisata Monas, Kebun Binatang, Ancol, dan sebagainya",
+        "biaya": 3300000,
+        "is_ready": true,
+        "banner": "Jakarta.jpg"
+      },
+      "id": 3
+    }
+  ]
 }
